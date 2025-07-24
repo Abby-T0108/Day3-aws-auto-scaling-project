@@ -33,4 +33,4 @@ https://github.com/Abby-T0108/Day3-aws-auto-scaling-project/blob/main/auto-scali
 How to Run This Project:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abby-T0108/Day3-aws-auto-scaling-project/new/main
+   git clone https://github.com/Abby-T0108/Day3-aws-auto-scaling-project
